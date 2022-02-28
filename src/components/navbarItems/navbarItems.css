@@ -1,0 +1,15 @@
+.navbarItems-container {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-right: 15px;
+}
+
+li {
+    margin-left: 5%;
+}
+
+.items-img {
+    height: 50px;
+}

@@ -1,0 +1,12 @@
+.logo-container {
+    height: 40px;
+    margin-left: 10px;
+}
+
+@supports(object-fit: cover){
+    .logo-container img{
+      height: 80%;
+      object-fit: cover;
+      object-position: center center;
+    }
+}
