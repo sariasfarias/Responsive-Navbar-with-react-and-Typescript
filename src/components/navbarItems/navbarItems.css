@@ -13,3 +13,10 @@ li {
 .items-img {
     height: 50px;
 }
+
+
+button {
+    border:none;
+    background: transparent;
+    background-repeat:no-repeat;
+}
